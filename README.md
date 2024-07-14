@@ -1,2 +1,2 @@
 # News-Website
-Author-Akshay Mishra
+Owner-Akshay Mishra
